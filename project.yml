@@ -1,0 +1,23 @@
+name: Switchboard
+options:
+  bundleIdPrefix: com.example
+  deploymentTarget:
+    iOS: "15.0"
+targets:
+  Switchboard:
+    type: application
+    platform: iOS
+    sources: [Switchboard]
+    info:
+      path: Switchboard/Info.plist
+      properties:
+        UILaunchScreen: {}
+        CFBundleDisplayName: Switchboard
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.example.switchboard
+        ASSETCATALOG_COMPILER_APPICON_NAME: AppIcon
+        SWIFT_VERSION: "5.0"
+        TARGETED_DEVICE_FAMILY: "1"
+        MARKETING_VERSION: "1.0"
+        CURRENT_PROJECT_VERSION: "1"
