@@ -6,15 +6,15 @@ Switchboard is an experimental iOS application investigating how the iPhone’s 
 
 Status: Very early closed alpha — an initial testing build has been distributed to a very small group of testers.
 
-IMPORTANT — COMPATIBILITY DISCLAIMER
+⚠️ Important — Compatibility Disclaimer
 
-Switchboard currently only supports the following iOS versions:
+Switchboard currently only supports these iOS versions:
 
 * iOS 26.0–26.7.2
 * iOS 27.2
 * iOS 27.0 Developer Beta 1–4
 
-Other iOS versions are not currently supported, and compatibility is not guaranteed.
+Other iOS versions are currently unsupported, and compatibility is not guaranteed.
 
 Compatibility requirements may change. As the worse_query exploit evolves, supported iOS versions may be added, removed, or otherwise changed depending on exploit availability and compatibility.
 
